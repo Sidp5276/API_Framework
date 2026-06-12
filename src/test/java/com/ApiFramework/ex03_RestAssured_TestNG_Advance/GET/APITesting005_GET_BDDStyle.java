@@ -5,6 +5,7 @@ import org.testng.annotations.Test;
 
 public class APITesting005_GET_BDDStyle {
 
+
     @Test
     public void test_GET_POSITIVE(){
         String pincode = "560058";
