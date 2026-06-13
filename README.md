@@ -1,4 +1,4 @@
-# API Automation Framework
+# API Automation Framework (REST ASSURED)
 
 A Java-based API Automation Framework built using Rest Assured, TestNG, Maven, and Allure Reporting. This project covers API testing fundamentals, TestNG concepts, request validations, payload management, and reporting, making it suitable for learning and demonstrating API automation skills.
 
